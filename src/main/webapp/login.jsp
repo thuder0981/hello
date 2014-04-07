@@ -9,7 +9,7 @@
 
 <body>
 	<form action="login" method="post">
-		name:<input type="text" name="name" /> password:<input
+		name:<input type="text" name="name" /> pfffffassword:<input
 			type="password" name="password" /> <input type="submit" value="登录" />
 	</form>
 </body>
